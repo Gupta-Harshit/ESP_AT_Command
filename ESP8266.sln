@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29009.5
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{803FD0C6-D64E-4E16-9DC3-1DAEC859A3D2}") = "ESP8266", "ESP8266.vgdbproj", "{E02BAAB6-31CF-40CC-B353-C708BE3AF2E0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Arduino_Genuino_Uno = Debug|Arduino_Genuino_Uno
+		Release|Arduino_Genuino_Uno = Release|Arduino_Genuino_Uno
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E02BAAB6-31CF-40CC-B353-C708BE3AF2E0}.Debug|Arduino_Genuino_Uno.ActiveCfg = Debug|Arduino_Genuino_Uno
+		{E02BAAB6-31CF-40CC-B353-C708BE3AF2E0}.Debug|Arduino_Genuino_Uno.Build.0 = Debug|Arduino_Genuino_Uno
+		{E02BAAB6-31CF-40CC-B353-C708BE3AF2E0}.Release|Arduino_Genuino_Uno.ActiveCfg = Release|Arduino_Genuino_Uno
+		{E02BAAB6-31CF-40CC-B353-C708BE3AF2E0}.Release|Arduino_Genuino_Uno.Build.0 = Release|Arduino_Genuino_Uno
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {18FB1E54-0597-461B-9825-9809E6773B97}
+	EndGlobalSection
+EndGlobal
